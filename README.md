@@ -1,3 +1,7 @@
+> **NOTE**: This fork is no longer maintained and should be fully merged back to the upstream repo. It may be referred to in a few older applications, but all sneakers use should rely on released gems or the mainline of the upstream repo.
+
+---
+
 # Sneakers
 
 
